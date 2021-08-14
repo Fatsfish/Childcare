@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "49ef06e793c47e05b13e9f0aca8aafc64603baed"
+=======
+#pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f430b60710c05067b4f4dac3385aa14178cf7c2f"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f430b60710c05067b4f4dac3385aa14178cf7c2f"
 >>>>>>> Stashed changes
@@ -98,9 +102,12 @@ using Childcare.Models;
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed15093", async() => {
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\"/>\r\n    <title>");
 =======
+=======
+>>>>>>> Stashed changes
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f9989", async() => {
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>");
 >>>>>>> Stashed changes
@@ -113,7 +120,11 @@ using Childcare.Models;
 #nullable disable
                 WriteLiteral(" - Childcare</title>\r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49ef06e793c47e05b13e9f0aca8aafc64603baed15744", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f10624", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f10624", async() => {
 >>>>>>> Stashed changes
@@ -132,7 +143,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49ef06e793c47e05b13e9f0aca8aafc64603baed16923", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f11803", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f11803", async() => {
 >>>>>>> Stashed changes
@@ -254,9 +269,15 @@ using Childcare.Models;
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed26071", async() => {
                 WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container\">\r\n                ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed26527", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f13686", async() => {
+                WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container\">\r\n                ");
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f14142", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f13686", async() => {
                 WriteLiteral("\r\n    <header>\r\n        <nav class=\"navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3\">\r\n            <div class=\"container\">\r\n                ");
@@ -291,7 +312,11 @@ using Childcare.Models;
                         <li class=""nav-item"">
                             ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed28840", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f16448", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f16448", async() => {
 >>>>>>> Stashed changes
@@ -316,7 +341,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed30686", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f18287", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f18287", async() => {
 >>>>>>> Stashed changes
@@ -341,7 +370,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed32535", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f20129", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f20129", async() => {
 >>>>>>> Stashed changes
@@ -366,7 +399,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed34385", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f21974", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f21974", async() => {
 >>>>>>> Stashed changes
@@ -391,7 +428,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>\r\n                        <li class=\"nav-item\">\r\n                            ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed36235", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f23821", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f23821", async() => {
 >>>>>>> Stashed changes
@@ -416,7 +457,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n                        </li>\r\n                    </ul>\r\n                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "49ef06e793c47e05b13e9f0aca8aafc64603baed38059", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f25642", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f430b60710c05067b4f4dac3385aa14178cf7c2f25642", async() => {
 >>>>>>> Stashed changes
@@ -436,7 +481,11 @@ using Childcare.Models;
                 WriteLiteral("\r\n                </div>\r\n            </div>\r\n        </nav>\r\n    </header>\r\n    <section>\r\n        <div class=\"container\">\r\n            ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 52 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+=======
+#line 44 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 44 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
 >>>>>>> Stashed changes
@@ -451,6 +500,9 @@ using Childcare.Models;
 =======
                 WriteLiteral("\r\n        </main>\r\n    </div>\r\n\r\n    <footer class=\"border-top footer text-muted\">\r\n        <div class=\"container\">\r\n            &copy; 2021 - Childcare - ");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f27384", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                     WriteLiteral("Privacy");
                 }
@@ -472,7 +524,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n        </div>\r\n    </footer>\r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed41462", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f29066", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f29066", async() => {
 >>>>>>> Stashed changes
@@ -490,7 +546,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed42563", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f30167", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f30167", async() => {
 >>>>>>> Stashed changes
@@ -508,7 +568,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\r\n    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ef06e793c47e05b13e9f0aca8aafc64603baed43664", async() => {
+=======
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f31268", async() => {
+>>>>>>> Stashed changes
 =======
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("script", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f430b60710c05067b4f4dac3385aa14178cf7c2f31268", async() => {
 >>>>>>> Stashed changes
@@ -522,7 +586,11 @@ using Childcare.Models;
                 __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_26);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 62 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+=======
+#line 55 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 55 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
 >>>>>>> Stashed changes
@@ -626,7 +694,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ScriptTagHelper.AppendVersion = true;
                 WriteLiteral("\r\n    ");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 70 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+=======
+#line 56 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 56 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Shared\_Layout.cshtml"
 >>>>>>> Stashed changes

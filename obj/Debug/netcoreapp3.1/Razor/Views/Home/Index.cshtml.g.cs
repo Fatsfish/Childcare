@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "4a987a22357a95c27f83d0e380a4076d703fb18a"
+=======
+#pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "99464617055fdb505bb0bb7fd91f9b14f7b0d030"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Home\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "99464617055fdb505bb0bb7fd91f9b14f7b0d030"
 >>>>>>> Stashed changes

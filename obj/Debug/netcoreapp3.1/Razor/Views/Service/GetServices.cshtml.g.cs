@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "fe370dfcfa197a33de9a682c0f44c1db504e4dc9"
+=======
+#pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "622bf1d5597cd9c1152787573e695da15e7a523e"
+>>>>>>> Stashed changes
 =======
 #pragma checksum "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "622bf1d5597cd9c1152787573e695da15e7a523e"
 >>>>>>> Stashed changes
@@ -89,7 +93,11 @@ Write(ViewData["Title"]);
 #nullable disable
             WriteLiteral("</h4>\r\n<div class=\"navbar-collapse collapse d-sm-inline-flex justify-content-between\">\r\n    <ul class=\"navbar-nav flex-grow-1\">\r\n        <li class=\"nav-item\">\r\n            ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe370dfcfa197a33de9a682c0f44c1db504e4dc97006", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e7006", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e7006", async() => {
 >>>>>>> Stashed changes
@@ -234,6 +242,9 @@ WriteAttributeValue(" ", 1278, cardBgColor, 1279, 12, false);
 =======
             WriteLiteral(" mins</div>\r\n                ");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("partial", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "622bf1d5597cd9c1152787573e695da15e7a523e12578", async() => {
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             }
             );
@@ -243,7 +254,11 @@ WriteAttributeValue(" ", 1278, cardBgColor, 1279, 12, false);
             __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_4);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 46 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+=======
+#line 45 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 45 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 >>>>>>> Stashed changes
@@ -263,7 +278,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = Tuple.Create(@ser
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 47 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+=======
+#line 46 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 46 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 >>>>>>> Stashed changes
@@ -275,7 +294,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = Tuple.Create(@ser
 #nullable disable
             WriteLiteral("                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe370dfcfa197a33de9a682c0f44c1db504e4dc914788", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e14458", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e14458", async() => {
 >>>>>>> Stashed changes
@@ -283,9 +306,12 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_PartialTagHelper.Model = Tuple.Create(@ser
                 BeginWriteAttribute("value", " value=\"", 2086, "\"", 2112, 1);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 50 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 WriteAttributeValue("", 2094, service.ServiceID, 2094, 18, false);
 =======
+=======
+>>>>>>> Stashed changes
 #line 49 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 WriteAttributeValue("", 2013, service.ServiceID, 2013, 18, false);
 >>>>>>> Stashed changes
@@ -315,7 +341,11 @@ WriteAttributeValue("", 2013, service.ServiceID, 2013, 18, false);
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 53 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+=======
+#line 52 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 52 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 >>>>>>> Stashed changes
@@ -328,7 +358,11 @@ WriteAttributeValue("", 2013, service.ServiceID, 2013, 18, false);
 #nullable disable
             WriteLiteral("                    ");
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe370dfcfa197a33de9a682c0f44c1db504e4dc917224", async() => {
+=======
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e16894", async() => {
+>>>>>>> Stashed changes
 =======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "622bf1d5597cd9c1152787573e695da15e7a523e16894", async() => {
 >>>>>>> Stashed changes
@@ -336,9 +370,12 @@ WriteAttributeValue("", 2013, service.ServiceID, 2013, 18, false);
                 BeginWriteAttribute("value", " value=\"", 2434, "\"", 2460, 1);
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 57 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 WriteAttributeValue("", 2442, service.ServiceID, 2442, 18, false);
 =======
+=======
+>>>>>>> Stashed changes
 #line 56 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 WriteAttributeValue("", 2361, service.ServiceID, 2361, 18, false);
 >>>>>>> Stashed changes
@@ -370,7 +407,11 @@ WriteAttributeValue("", 2361, service.ServiceID, 2361, 18, false);
             WriteLiteral("\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 61 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+=======
+#line 60 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 60 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 >>>>>>> Stashed changes
@@ -382,7 +423,11 @@ WriteAttributeValue("", 2361, service.ServiceID, 2361, 18, false);
             WriteLiteral("            </div>\r\n        </div>\r\n");
 #nullable restore
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #line 64 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+=======
+#line 63 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
+>>>>>>> Stashed changes
 =======
 #line 63 "D:\FPTU\2021 S2 Summer\PRN211\Lab\Childcare\Views\Service\GetServices.cshtml"
 >>>>>>> Stashed changes
