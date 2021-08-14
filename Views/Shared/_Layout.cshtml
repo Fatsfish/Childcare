@@ -2,10 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
     <title>@ViewData["Title"] - Childcare</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+
+    <link rel="shortcut icon" href="~/images/fav.jpg"/>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"/>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/fontawsom-all.min.css"/>
+    <link rel="stylesheet" href="~/plugins/slider/css/owl.carousel.min.css"/>
+    <link rel="stylesheet" href="~/plugins/slider/css/owl.theme.default.css"/>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
 </head>
 <body>
     <header>
@@ -39,12 +47,11 @@
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    <section>
+        <div class="container">
             @RenderBody()
-        </main>
-    </div>
-
+        </div>
+    </section>
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; 2021 - Childcare - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
@@ -53,6 +60,13 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery-3.2.1.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/plugins/slider/js/owl.carousel.min.js"></script>
+    <script src="~/plugins/scroll-fixed/jquery-scrolltofixed-min.js"></script>
+
+    <script src="~/js/script.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
